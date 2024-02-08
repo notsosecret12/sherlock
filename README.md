@@ -49,7 +49,7 @@ usage: sherlock [-h] [--version] [--verbose] [--folderoutput FOLDEROUTPUT]
 Sherlock: Find Usernames Across Social Networks (Version 0.14.3)
 
 positional arguments:
-  USERNAMES             One or more usernames to check with social networks.
+  USERNAMES  only444zach.txt           One or more usernames to check with social networks.
                         Check similar usernames using {?} (replace to '_', '-', '.').
 
 optional arguments:
