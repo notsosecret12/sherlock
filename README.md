@@ -4,7 +4,8 @@
   <br>
   <span>Hunt down social media accounts by username across <a href="https://github.com/sherlock-project/sherlock/blob/master/sites.md">social networks</a></span>
   <br>
-</p>
+</p >
+
 
 <p align="center">
   <a href="#installation">Installation</a>
